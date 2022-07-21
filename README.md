@@ -11,7 +11,7 @@ To make it run, after checking it out:
 2. Run these commands:
 
 ```
-go get github.com/ellieasager/go
-go install github.com/ellieasager/go
-go run github.com/ellieasager/go
+go get github.com/ellieasager/helloGo
+go install github.com/ellieasager/helloGo
+go run github.com/ellieasager/helloGo
 ```
