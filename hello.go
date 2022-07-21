@@ -1,10 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
 
-// import "github.com/ellieasager/helloGo/stringsFun"
+	"github.com/ellieasager/go/stringsFun"
+)
 
 func main() {
 	fmt.Println("Hello, world.")
-	// fmt.Println(stringsFun.ReverseRunes("!oG ,olleH"))
+	fmt.Println(stringsFun.ReverseRunes("!oG ,olleH"))
 }
